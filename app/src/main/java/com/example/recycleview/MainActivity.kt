@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         countryname.add("Canada")
 
         detailslist.add("This is the flag of India")
-        detailslist.add("This is the flag of USA")
+        detailslist.add("This is the flag of I DON'T KNOW")
         detailslist.add("This is the flag of Canada")
 
         imagelist.add(R.drawable.india)
